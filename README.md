@@ -16,7 +16,7 @@ Simple Python app that interacts with Gmail API to filter out all of your emails
 
 7.) Install all the requirement libraries in requirements.txt
 
-8.) Run app.py locally and authenticate to the consent screen to retrieve a pickle file with token informations in it.
+8.) Run app.py locally and authenticate to the consent screen to retrieve a json file with token informations in it.
 
 ## Local Docker
 `docker build -t gmail-filter-app .`
