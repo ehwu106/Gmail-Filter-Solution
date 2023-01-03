@@ -23,4 +23,5 @@ Simple Python app that interacts with Gmail API to filter out all of your emails
     $ docker build -t gmail-filter-app .
     $ docker run -it --rm -p 8080:8080 gmail-filter-app:latest
 ```
-
+# License
+[GNU General Public License v3.0](LICENSE)
